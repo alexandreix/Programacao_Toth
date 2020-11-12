@@ -1,0 +1,33 @@
+{
+    
+    "alunos": [{
+        "nome": "Alexandre Rodrigues",
+        "cpf": "04630341779",
+        "telefone": "(24)9991119291",
+        "email": "alexandre@gmail.com",
+        "idade": 25
+        },
+        {
+            "nome": "Alessandra Conrado",
+            "cpf": "04630341779",
+            "telefone": "(24)9991119291",
+            "email": "alessandra@gmail.com",
+            "idade": 25
+        },
+        {
+            "nome": "Douglas dos Santos Silva",
+            "cpf": "04630341779",
+            "telefone": "(24)9991119291",
+            "email": "douglas@gmail.com",
+            "idade": 25
+        },
+        {
+            "nome": "Kelen Silva",
+            "cpf": "04630341779",
+            "telefone": "(24)9991119291",
+            "email": "kelen@gmail.com",
+            "idade": 25
+        }
+
+    ]
+  }
